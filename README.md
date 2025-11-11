@@ -16,7 +16,7 @@
 5. [注意事項](#5-注意事項)  
 
 ## 1. Enigma_04
-Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。3行×10列でコンボキー、マクロキーなどキーマップを極めてみませんか。[Vollism36](https://note.com/reinmuth66/n/n601a3b2f92b4)([Reinmuth](https://x.com/reinmuth66)さん)や[Tiny18](https://booth.pm/ja/items/7306063)([神沼三平太](https://x.com/3peta)さん)に影響を受けた背景があります。  
+Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。コンボキーの世界に身を置いてキーマップを極めてみませんか。左右分割キーボードを最大限に生かすために大西配列にも挑戦してみませんか。[Vollism36](https://note.com/reinmuth66/n/n601a3b2f92b4)([Reinmuth](https://x.com/reinmuth66)さん)や[Tiny18](https://booth.pm/ja/items/7306063)([神沼三平太](https://x.com/3peta)さん)に影響を受けた背景があります。  
 
 + 販売は[BOOTH](https://booth.pm/ja/items/7584046)で行っていきます。  
 + ユーザー向けのファームウェアは[こちら](https://github.com/nazuna293/zmk-Enigma_04-user-config)です。
@@ -30,7 +30,7 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。3行×10�
 + リポバッテリー搭載可能
 
 ### 外観
-左右共に寸法は(**W100×D60×H18mm​​​​​​​​​​​​​​​​​​​​​​**)です。内蔵磁石でくっつけて収納できます。
+左右共に寸法は(**W100×D60×H18mm​​​​​​​​​​​​​​​​​​​​​​**)です。底面のすべり止めは内蔵磁石でくっつけて収納できます。
 背面の傾斜（チルト）はありませんが、**ロープロ×狭ピッチ**により**違和感の少ない打鍵感**です。
 <img src="docs/img/size.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
