@@ -3,7 +3,6 @@
 
 ## 目次
 1. [Enigma_04](#1-Enigma_04)  
-       [初期キーマップ](#初期キーマップ)
 2. [商品詳細](#2-商品詳細)  
   2-1. [商品内容](#2-1-商品内容)  
   2-2. [別途必要部品](#2-2別途必要部品)  
@@ -40,7 +39,7 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 
 ### 初期キーマップ  
 
-![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_04/main/keymap-drawer/Enigma_01_a.svg)
+![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_04/main/keymap-drawer/Enigma_04.svg)
 
 興味のある人はDiscordの[Enigma サポート開発](https://discord.gg/sYsCttWgKr)に立ち寄ってみてください。
 
