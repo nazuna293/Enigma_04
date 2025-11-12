@@ -16,7 +16,7 @@
 5. [注意事項](#5-注意事項)  
 
 ## 1. Enigma_04
-Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。コンボキーを極めてみませんか。左右分割キーボードを最大限に生かすために大西配列にも挑戦してみませんか。[Vollism36](https://note.com/reinmuth66/n/n601a3b2f92b4)([Reinmuth](https://x.com/reinmuth66)さん)や[Tiny18](https://booth.pm/ja/items/7306063)([神沼三平太](https://x.com/3peta)さん)に影響を受けた背景があります。  
+Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism36](https://note.com/reinmuth66/n/n601a3b2f92b4)([Reinmuth](https://x.com/reinmuth66)さん)や[Tiny18](https://booth.pm/ja/items/7306063)([神沼三平太](https://x.com/3peta)さん)に影響を受けた背景があります。  
 
 + 販売は[BOOTH](https://booth.pm/ja/items/7584046)で行っていきます。  
 + ユーザー向けのファームウェアは[こちら](https://github.com/nazuna293/zmk-Enigma_04-user-config)です。
@@ -100,7 +100,7 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。コンボ
 > 積層が縦になるように取り付けることで手触りが良くなります。  
 
 ## 3. ビルドガイド
-1. Enigma_01を開封して商品内容を確認する
+1. Enigma_04を開封して商品内容を確認する
 2. キースイッチとキーキャップを取り付ける
 3. デバイスと接続して動作確認する
 
