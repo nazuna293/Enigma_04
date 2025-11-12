@@ -39,7 +39,7 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 
 ### 初期キーマップ  
 
-![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_04/main/keymap-drawer/Enigma_04.svg)
+![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_04/v1.1/keymap-drawer/Enigma_04_OONISHI.svg)
 
 興味のある人はDiscordの[Enigma サポート開発](https://discord.gg/sYsCttWgKr)に立ち寄ってみてください。
 
