@@ -22,7 +22,7 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 + ユーザー向けのファームウェアは[こちら](https://github.com/nazuna293/zmk-Enigma_04-user-config)です。
 + 設計者向けのリポジトリも[公開](https://github.com/nazuna293/zmk-keyboard-Enigma_04)しています。
 
-> [!TIP]
+> [!NOTE]
 > コンボキーやタップダンスに修飾キーや特殊キーを割り当てることで最小限のキー数でタイピングすることが出来ます。
 > 初期キーマップは[こちら](#初期キーマップ)です。
 
