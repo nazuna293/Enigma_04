@@ -39,6 +39,12 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 <img src="docs/img/size.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 ### 初期キーマップ  
+### Tap Dance
+|name|tap|hold|2tap|tap hold|
+|:-:|:-:|:-:|:-:|:-:|
+|td1|||||
+|td2|||||
+
 
 ![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_04/v1.1/keymap-drawer/Enigma_04_OONISHI.svg)
 
