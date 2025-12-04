@@ -58,7 +58,7 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 |商品|数|備考|
 |:-|:-|:-|
 |Enigma_04本体|×1|[部品表](docs/parts_main.md)|
-|[キーキャップ](#2-4-3DP製キーキャップ)|×1|[Nazuna_pick](https://nazuna293.booth.pm/items/7265342)<br>1.0u ×28|
+|[キーキャップ](#2-4-3DP製キーキャップ)|×1|[Nazuna_pick](https://nazuna293.booth.pm/items/7265342)<br>1.0u ×30|
 > Enigma_04本体は組み立て済みのため**はんだ付けは必要ありません**。  
 
 > キーキャップは**狭ピッチ(17mm以下)対応のもの**が取り付け可能です。  
