@@ -105,7 +105,7 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 > キーボードを分解するときに必要となります。  
 
 ### 2-4. 3DP製キーキャップ
-<img src="docs/img/nazuna_pick.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+<img src="docs/img/nazuna_pick_w.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 オリジナルキーキャップ[Nazuna_pick](https://nazuna293.booth.pm/items/7265342)が付属します。狭ピッチ（17mm）のMX軸(Choc v2)で**誤タッチしづらい**ことに重点を置いた設計です。
 > 積層が縦になるように取り付けることで手触りが良くなります。  
