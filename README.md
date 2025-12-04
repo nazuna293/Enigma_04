@@ -53,7 +53,8 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 
 ## 2. 商品詳細
 ### 2-1. 商品内容
-📷内容一覧  
+<img src="docs/img/04_sub.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+ 
 
 |商品|数|備考|
 |:-|:-|:-|
