@@ -1,5 +1,5 @@
 # Enigma_04 詳細説明
-<img src="docs/img/main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+<img src="docs/img/04_main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 ## 目次
 1. [Enigma_04](#1-Enigma_04)  
@@ -120,7 +120,7 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 ### 3-1. ファームウェアについて
 ファームウェアやキーマップ編集は[こちら](https://github.com/nazuna293/zmk-Enigma_04_kbd-user-config)です。
 
-### 3-2. 利用可能な電源構成
+### 3-2. 利用可能な電源構成について
 以下のようなパターンで利用可能です。
 |マスター（左手側）|サブ（右手側）|
 |:-|:-|
