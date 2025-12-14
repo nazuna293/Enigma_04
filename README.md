@@ -48,6 +48,10 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 |tp2|F7|layer to_ALT|F8||
 |tp3|space|layer |B||
 |tp4|:||;||
+|Sft||Shift||layer to_Shift|
+|Ctl||Ctrl||layer to_Ctrl|
+|Win||Win||layer to_Win|
+|Alt||Alt||layer to_Alt|
 
 ![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_04_kbd/main/keymap-drawer/Enigma_04_QWERTY.svg)
 
