@@ -20,8 +20,8 @@
 Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism36](https://note.com/reinmuth66/n/n601a3b2f92b4)([Reinmuth](https://x.com/reinmuth66)さん)や[Tiny18](https://booth.pm/ja/items/7306063)([神沼三平太](https://x.com/3peta)さん)に影響を受けた背景があります。  
 
 + 販売は[BOOTH](https://booth.pm/ja/items/7584046)で行っていきます。  
-+ ユーザー向けのファームウェアは[こちら](https://github.com/nazuna293/zmk-Enigma_04-user-config)です。
-+ 設計者向けのリポジトリも[公開](https://github.com/nazuna293/zmk-keyboard-Enigma_04)しています。
++ ユーザー向けのファームウェアは[こちら](https://github.com/nazuna293/zmk-Enigma_04_kbd-user-config)です。
++ 設計者向けのリポジトリも[公開](https://github.com/nazuna293/zmk-keyboard-Enigma_04_kbd)しています。
 
 > [!NOTE]
 > コンボキーやタップダンスに修飾キーや特殊キーを割り当てることで最小限のキー数でタイピングすることが出来ます。
