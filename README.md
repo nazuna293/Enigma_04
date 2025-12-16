@@ -1,5 +1,5 @@
 # Enigma_04 詳細説明
-<img src="docs/img/04_sub.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+<img src="docs/img/04_main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 ## 目次
 1. [Enigma_04](#1-Enigma_04)  
