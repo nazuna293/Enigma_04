@@ -45,15 +45,19 @@ Enigma_04は**17mm狭ピッチ左右分割30%キーボード**です。[Vollism3
 ### Tap Dance
 |name|tap|hold|2tap|tap hold|
 |:-:|:-:|:-:|:-:|:-:|
-|tp1|半／全|layer to_ALT|||
-|tp2|F7|layer to_ALT|F8||
-|tp3|space|layer |B||
-|tp4|:||;||
+|td1|半／全|layer to_ALT|||
+|td2|F7|layer to_ALT|F8||
+|td3|space|layer Tenkey|B ※||
+|td4|:||;||
 |Sft||Shift||layer to_Shift|
 |Ctl||Ctrl||layer to_Ctrl|
 |Win||Win||layer to_Win|
 |Alt||Alt||layer to_Alt|
 
+※レイヤー to_○○に推移している間は○○キーが押されている状態になっています。
+※td3 QWERTYでは**B**、OONISHIでは**/**を設定しています。
+
+### QWERTYキーマップ
 ![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_04_kbd/main/keymap-drawer/Enigma_04_QWERTY.svg)
 
 興味のある人はDiscordの[Enigma サポート開発](https://discord.gg/sYsCttWgKr)に立ち寄ってみてください。
